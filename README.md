@@ -1,9 +1,3 @@
-<style>
-  .next{
-    background-color:white;
-   }
-</style>
-
 <h1 align="center">Hi 👋, I'm Lorenzo</h1>
 <h3 align="center">A passionate software developer from Spain</h3>
 
